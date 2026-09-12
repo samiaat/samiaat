@@ -36,7 +36,7 @@ me = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samiaat&show_icons=true&hide_border=true&title_color=ff2e88&icon_color=ff2e88&text_color=ffffff&bg_color=1a0011&count_private=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=samiaat&show_icons=true&hide_border=true&title_color=ff2e88&icon_color=ff2e88&text_color=ffffff&bg_color=1a0011&count_private=true" />
 
 </td>
 </tr>
