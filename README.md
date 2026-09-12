@@ -36,7 +36,7 @@ me = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samia&show_icons=true&hide_border=true&title_color=ff2e88&icon_color=ff2e88&text_color=ffffff&bg_color=1a0011&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=samiaat&show_icons=true&hide_border=true&title_color=ff2e88&icon_color=ff2e88&text_color=ffffff&bg_color=1a0011&count_private=true" />
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ Deep learning model for automatic image classification, with custom preprocessin
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Samia/Samia/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/samiaat/samiaat/output/github-contribution-grid-snake-dark.svg?v=1" width="100%"/>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -111,11 +111,11 @@ Deep learning model for automatic image classification, with custom preprocessin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samia&hide_border=true&background=1a0011&ring=ff2e88&fire=ff2e88&currStreakLabel=ff2e88" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samiaat&hide_border=true&background=1a0011&ring=ff2e88&fire=ff2e88&currStreakLabel=ff2e88" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samia&bg_color=1a0011&color=ff2e88&line=ff2e88&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samiaat&bg_color=1a0011&color=ff2e88&line=ff2e88&point=ffffff&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samia&theme=radical&no-frame=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=samiaat&theme=radical&no-frame=true&margin-w=8&column=7" />
 
 </div>
 
@@ -130,7 +130,7 @@ Deep learning model for automatic image classification, with custom preprocessin
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samia&label=Profile+Views&color=ff2e88&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=samiaat&label=Profile+Views&color=ff2e88&style=for-the-badge"/>
 
 </div>
 
