@@ -36,7 +36,7 @@ me = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=samiaat&show_icons=true&hide_border=true&title_color=ff2e88&icon_color=ff2e88&text_color=ffffff&bg_color=1a0011&count_private=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=samiaat&show_icons=true&hide_border=true&title_color=ff2e88&icon_color=ff2e88&text_color=ffffff&bg_color=1a0011&count_private=true" width="100%" style="min-width:400px"/>
 
 </td>
 </tr>
@@ -68,33 +68,6 @@ me = {
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,git,github&theme=dark" />
 
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-**🧠 Sentiment Analysis Engine**
-NLP pipeline (Python + Keras) classifying customer reviews as positive / negative / neutral.
-
-`Python` `Keras` `NLP`
-
-</td>
-<td width="50%">
-
-**🖼️ Image Classifier (CNN)**
-Deep learning model for automatic image classification, with custom preprocessing and results visualization.
-
-`Python` `TensorFlow` `CNN`
-
-</td>
-</tr>
-</table>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -135,5 +108,3 @@ Deep learning model for automatic image classification, with custom preprocessin
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:8a0050,100:1a0011&height=120&section=footer" />
-
-
