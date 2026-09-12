@@ -135,3 +135,5 @@ Deep learning model for automatic image classification, with custom preprocessin
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:8a0050,100:1a0011&height=120&section=footer" />
+
+
